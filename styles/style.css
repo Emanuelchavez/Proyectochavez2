@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,800;1,200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+header{
+    display: flex;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header .logo img{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    align-items: center;
+    padding: 10px;
+
+}
+
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(187,26,86,1) 50%, rgba(0,212,255,1) 100%);
+    margin: 0;
+    align-items:center;
+    padding: 10px;
+    font-family: sans-serif;
+
+}
+.arriba .Productos .ber{
+    width: 200px;
+    height: 200px;
+}
+.arriba .Productos .chom{
+    width: 200px;
+    height: 200px;
+}
+.arriba .Productos .berm{
+    width: 200px;
+    height: 200px;
+}
+.cabeza .encabezado .nav{
+    list-style-type: none;
+}
+
+
+
+.cabeza .opiniones .baño{
+    width: 300px;
+    height: 300px;
+
+}
+.cabeza .opiniones .chomba{
+    width: 300px;
+    height: 300px;
+}
+.cabeza .opiniones .bermudas{
+    width: 300px;
+    height: 300px;
+}
+
+
+.final{
+    width: 100%;
+    background-color: cadetblue;   
+}
+
+.final .caja .box3{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+.final .caja{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+.final .cajas {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.final .caja .box figure .logo{
+    width: 70px;
+    height: 70px;
+}
+
+.final .caja .box2 .red-social a .instagram {
+    width: 50px;
+    height: 50px;
+}
+.final .caja .box2 .red-social a .twitter{
+    width: 50px;
+    height: 50px;
+}
+.final .caja .box2 .red-social a .facebook{
+    width: 50px;
+    height: 50px;
+}
+.final .caja .box2 .red-social a .whatsapp{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
